@@ -144,7 +144,7 @@ function sendTextMessage( textToSend ) {
     s.scrollTop = s.scrollHeight;
     playSound();
 }
-
+// data 
 
 function sendResponse() {
     setTimeout( setLastSeen, 1000 );
